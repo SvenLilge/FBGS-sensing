@@ -16,10 +16,6 @@ Copyright (C) 2022 Sven Lilge, Continuum Robotics Laboratory, University of Toro
 
 #include <memory>
 
-#include <real_time_tools/timer.hpp>
-#include <real_time_tools/spinner.hpp>
-#include <real_time_tools/thread.hpp>
-#include <time_series/time_series.hpp>
 
 #include <mutex>
 
